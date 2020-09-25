@@ -1,7 +1,10 @@
-Exercises for Flow 2 Week 1<br>
+##Exercises for Flow 2 Week 1##<br>
 <br>
-Day2 contains the tuesday exercises, with JPA relations<br>
+Day2 contains the tuesday exercises, with JPA relations.<br>
 <br>
-Day3 contains the first part of REST_Persons_DTO Part 1<br>
+Day3 contains the first part of REST_Persons_DTO Part 1.<br>
 <br>
-Day3-2 contains the remaining REST_Persons_DTO exercises, up to part 3.
+Day3-2 contains the remaining REST_Persons_DTO exercises, up to part 3.<br>
+<br>
+<br>
+Frederik Johnsen - cph-fj111@cphbusiness.dk
